@@ -1,0 +1,19 @@
+{
+  "name": "modern-todo-list-app",
+  "version": "1.0.0",
+  "description": "A modern, responsive to-do list application with local storage functionality, dark mode, and advanced task management features",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "dev": "http-server"
+  },
+  "keywords": [
+    "todo",
+    "tasks",
+    "productivity",
+    "local-storage",
+    "dark-mode"
+  ],
+  "author": "b2t8",
+  "license": "MIT"
+}
